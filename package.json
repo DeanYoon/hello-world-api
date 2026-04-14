@@ -1,5 +1,8 @@
 {
   "name": "hello-world-api",
   "version": "1.0.0",
-  "description": "Simple Hello World API"
+  "description": "Japan train operation status API",
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
 }
